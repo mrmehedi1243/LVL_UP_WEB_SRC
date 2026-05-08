@@ -3,14 +3,14 @@ import { getDatabase } from "firebase/database";
 import { getAuth } from "firebase/auth";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDoPMqzD_auTsIAxWdXDWJbthENOSJ9jcY",
-  authDomain: "gs-level.firebaseapp.com",
-  databaseURL: "https://gs-level-default-rtdb.firebaseio.com",
-  projectId: "gs-level",
-  storageBucket: "gs-level.firebasestorage.app",
-  messagingSenderId: "297319082375",
-  appId: "1:297319082375:web:707416043f173567e5cb22",
-  measurementId: "G-FB16YS409D"
+  apiKey: "AIzaSyBvOiRBlEQSj1qltf7larIUeyuq0gtYm9c",
+  authDomain: "tournement-professonal.firebaseapp.com",
+  databaseURL: "https://tournement-professonal-default-rtdb.firebaseio.com",
+  projectId: "tournement-professonal",
+  storageBucket: "tournement-professonal.firebasestorage.app",
+  messagingSenderId: "676357797818",
+  appId: "1:676357797818:web:873e1ce46a48cc0ddfcf83",
+  measurementId: "G-SJT1XD5L3J"
 };
 
 // Initialize Firebase
