@@ -3,13 +3,14 @@ import { getDatabase } from "firebase/database";
 import { getAuth } from "firebase/auth";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBGkxCQ1kV1zwF40GnjLlzGAEvKXoGOc_A",
-  authDomain: "tour-8dd05.firebaseapp.com",
-  projectId: "tour-8dd05",
-  storageBucket: "tour-8dd05.firebasestorage.app",
-  messagingSenderId: "307567930436",
-  appId: "1:307567930436:web:00d6fea73b604230d66011",
-  measurementId: "G-D0XJRW5H2T"
+  apiKey: "AIzaSyDoPMqzD_auTsIAxWdXDWJbthENOSJ9jcY",
+  authDomain: "gs-level.firebaseapp.com",
+  databaseURL: "https://gs-level-default-rtdb.firebaseio.com",
+  projectId: "gs-level",
+  storageBucket: "gs-level.firebasestorage.app",
+  messagingSenderId: "297319082375",
+  appId: "1:297319082375:web:707416043f173567e5cb22",
+  measurementId: "G-FB16YS409D"
 };
 
 // Initialize Firebase
